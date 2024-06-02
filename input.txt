@@ -1,0 +1,74 @@
+1 2 3 4 5 6 7 8 0 10
+11 12 13 14 15 16 17 18 19 20 21 22 23
+24 25 26 27
+28 29 30 0 32 33 0 35 36 37 31 34
+38 39 40 41 42 43 44 45 46 47
+48 49 50 51 52 53 54 55 56 57
+58 59 60 61 62 63 64 65 66 67
+1 Ferenc
+2 Nóra
+3 Kelemen
+4 Anita
+5 Péter
+6 Anna
+7 Gábor
+8 Eszter
+9 Zoltán
+10 Katalin
+11 Dávid
+12 Ágnes
+13 Tamás
+14 Orsolya
+15 István
+16 Veronika
+17 Gergő
+18 Szilvia
+19 Máté
+20 Emese
+21 Levente
+22 Brigitta
+23 Géza
+24 Bernadett
+25 Lóránt
+26 Kitti
+27 Zsolt
+28 Jázmin
+29 Richárd
+30 Enikő
+31 Norbert
+32 Krisztina
+33 Mihály
+34 Viktória
+35 Balázs
+36 Kinga
+37 Márton
+38 Henrietta
+39 Attila
+40 Luca
+41 Zsófia
+42 Melinda
+43 Szonja
+44 Viktor
+45 Dóra
+46 Csenge
+47 Vivien
+48 Noémi
+49 Bence
+50 Ákos
+51 Petra
+52 Gergely
+53 Mariann
+54 András
+55 Márk
+56 Aliz
+57 Botond
+58 Dániel
+59 Kitti
+60 Dominik
+61 Gitta
+62 Martin
+63 Róbert
+64 Virág
+65 Ábel
+66 Lili
+67 Zsanett
